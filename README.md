@@ -8,7 +8,7 @@ Not published to npm. Install it from GitHub, pinned to a tag:
 <!-- x-release-please-start-version -->
 
 ```sh
-bun add git@github.com:dimensionalpocket/tagged-logger.git#0.0.0
+bun add git@github.com:dimensionalpocket/tagged-logger.git#0.1.0
 ```
 
 <!-- x-release-please-end -->
