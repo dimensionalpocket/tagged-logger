@@ -1,0 +1,5 @@
+[test.reporter]
+dots = true
+
+[fmt]
+semi = false
